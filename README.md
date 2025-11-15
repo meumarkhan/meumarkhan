@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am Umar Khan, a final year Computer Science and Engineering graduate at IIT Patna.
+
 <!--
 **meumarkhan/meumarkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
